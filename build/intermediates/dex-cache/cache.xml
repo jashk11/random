@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Investomaster-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\Investomaster-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_c00ab6010f14229c58cad904d92d559662e30db0.jar" />
+    </item>
+    <item
+        jar="D:\Investomaster-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\Investomaster-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_d76f708e404770eef394e2e16c8bde2e655bb9bf.jar" />
+    </item>
+    <item
+        jar="D:\Investomaster-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\Investomaster-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_661120ff215f9333907b25d7c0b8b9c20dc1bc8c.jar" />
+    </item>
+    <item
+        jar="D:\Investomaster-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Investomaster-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_0165eb80529a913f8725b666c01e0f659b0991df.jar" />
+    </item>
+    <item
+        jar="D:\Investomaster-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\Investomaster-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_b1cd58b199eddb64ba14e629029fab509d3c08f1.jar" />
+    </item>
+    <item
+        jar="C:\Users\jash\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="D:\Investomaster-master\app\build\intermediates\pre-dexed\debug\butterknife-7.0.1_bf5070aad8637811650b85cc7e68652a4155e6d7.jar" />
+    </item>
+    <item
+        jar="D:\Investomaster-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\Investomaster-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_dac2a5a4d9b2764b8e11418f51fe3c5503221024.jar" />
+    </item>
+    <item
+        jar="C:\Users\jash\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpcore\4.4.1\f5aa318bda4c6c8d688c9d00b90681dcd82ce636\httpcore-4.4.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f5aa318bda4c6c8d688c9d00b90681dcd82ce636">
+        <dex dex="D:\Investomaster-master\app\build\intermediates\pre-dexed\debug\httpcore-4.4.1_9e8ff15651502b426e7108ebab273d0022c65ac4.jar" />
+    </item>
+    <item
+        jar="C:\Users\jash\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\Investomaster-master\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_72e973b2b4c9126b504e4b52d12fcae38801282d.jar" />
+    </item>
+    <item
+        jar="D:\Investomaster-master\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="D:\Investomaster-master\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_b5a209ad3f57f7757ff24ace3c54f662feeeea9a.jar" />
+    </item>
+    <item
+        jar="D:\Investomaster-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\Investomaster-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_bbd573a5ba952e967ffc1e63d1039878c8667a4a.jar" />
+    </item>
+    <item
+        jar="C:\Users\jash\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v3.0.1\369f9aa48a629b4e92557b37326f42dc3de796e4\MPAndroidChart-v3.0.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="369f9aa48a629b4e92557b37326f42dc3de796e4">
+        <dex dex="D:\Investomaster-master\app\build\intermediates\pre-dexed\debug\MPAndroidChart-v3.0.1_bb5e8bc54089d59a396631b02cbd7404b5ad7874.jar" />
+    </item>
+    <item
+        jar="D:\Investomaster-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\Investomaster-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_c30e13eff8d8f23c65d52e046fe8ce99a1e12fa2.jar" />
+    </item>
+    <item
+        jar="D:\Investomaster-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\Investomaster-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_c231b5efd7b0b66d78bf387bfba45b5ea4d9e5ca.jar" />
+    </item>
+    <item
+        jar="D:\Investomaster-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\Investomaster-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_3d6fd1dc3d978c4331b76245eeb9c3cb3501b40d.jar" />
+    </item>
+    <item
+        jar="D:\Investomaster-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="D:\Investomaster-master\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_35a0ce90954e4ab514a764505e5e223d7bcb4f34.jar" />
+    </item>
+    <item
+        jar="C:\Users\jash\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="D:\Investomaster-master\app\build\intermediates\pre-dexed\debug\gson-2.3.1_966659ab41d088762ac624e200773555af4f1ee6.jar" />
+    </item>
+    <item
+        jar="D:\Investomaster-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\Investomaster-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_586612e47119fe4b508139f38ca6ae135f26a59f.jar" />
+    </item>
+    <item
+        jar="D:\Investomaster-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\Investomaster-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_ee4869c8f50fa039c8931361f340c6bd4c2360fb.jar" />
+    </item>
+    <item
+        jar="D:\Investomaster-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\Investomaster-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_aaf960688b9f48e165c4a492f26d54e8b9d000bc.jar" />
+    </item>
+    <item
+        jar="D:\Investomaster-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\Investomaster-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_c67c519fe269633548d53e25d6faa5d1b0519a82.jar" />
+    </item>
+
+</items>

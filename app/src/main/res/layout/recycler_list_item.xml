@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:background="@color/md_grey_100"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="@dimen/activity_horizontal_margin"
+
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView
+        android:gravity="center"
+        android:textColor="@color/md_black_1000"
+        android:id="@+id/sharename"
+        android:layout_weight="1"
+        android:textSize="20dp"
+        android:layout_width ="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Alkem Labs"
+        android:clickable="true"
+        />
+    <TextView
+        android:textColor="@color/md_black_1000"
+android:text="Click to Know More"
+android:gravity="center"
+        android:id="@+id/clicktoknowmore"
+        android:layout_weight="1"
+android:textSize="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        />
+</LinearLayout>
+
+
+
+

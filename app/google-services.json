@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "495752687800",
+    "firebase_url": "https://stockwiz-fa091.firebaseio.com",
+    "project_id": "stockwiz-fa091",
+    "storage_bucket": "stockwiz-fa091.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495752687800:android:46e413f5f1387978",
+        "android_client_info": {
+          "package_name": "com.example.jash.codeit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495752687800-utvecl53d7reek0vk2t8eqev82ho0039.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jash.codeit",
+            "certificate_hash": "c022ab607067d73fa94725b2b05df40e22743436"
+          }
+        },
+        {
+          "client_id": "495752687800-j6eouev9bu9tka7kqae4p9l7qno92jom.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZShR1nB1krmIsPiz3ZIKMTdSxAFDrQ3Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495752687800-j6eouev9bu9tka7kqae4p9l7qno92jom.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
